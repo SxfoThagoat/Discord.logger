@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://images3.memedroid.com/images/UPLOADED795/61fabeaae3690.jpeg" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
